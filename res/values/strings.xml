@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- This is the heading text -->
+    <string name="heading">Please choose your desired content</string>
+    <!-- This is the email button text -->
+    <string name="emailbtn">E-mail Account</string>
+    <!-- This is the gmail button text -->
+    <string name="gmailbtn">Gmail Account</string>
+    <!-- This is the yahoo button text -->
+    <string name="yahoobtn">Yahoo Account</string>
+    <!-- This is the facebook button text -->
+    <string name="facebookbtn">Facebook Account</string>
+    <!-- This is the skype button text -->
+    <string name="skypebtn">Skype Account</string>
+    <!-- This is the twitter button text -->
+    <string name="twitterbtn">Twitter Account</string>
+    <!-- This is the instagram button text -->
+    <string name="instagrambtn">Instagram Account</string>
+    <!-- This is my app name -->
+    <string name="app_name">MakeID</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_email">Email</string>
+    <string name="title_activity_gmail">Gmail</string>
+    <string name="gmail"> <!-- This is the gmail content text -->
+
+
+<![CDATA[<html>
+<body>
+<h2>Create your own Gmail account</h2>
+<h3>Step-01:</h3>
+<h5>Open the Gmail website www.gmail.com. Click the blue \"Create an account\" button below the login box. This will take you to the "Create your Google Account" page.  </h5>
+<h3>Step-02:</h3>
+<h5>Come up with a username.Your username will become your new Gmail email address. Have a backup or two handy in case your desired name is already taken. If your username is not available, you will be given several related options, or you can try a different one. </h5>
+<h3>Step-03:</h3>
+<h5>Fill out the rest of the required information. You will need to enter your first and last name, your birthday (for age verification), your gender,  your phone number in case you lose access to your account, and a verification email address(Optional). You also need to enter which country you reside in.</h5>
+<h3>Step-04:</h3>
+<h5>Complete the CAPTCHA. This is a verification tool that ensures that a real person is creating the account. If you can^t read it, click the refresh button next to the text field to get a new one, or click the speaker button to have it read out loud through your computer speakers.</h5>
+<h3>Step-05:</h3>
+<h5>Agree to the privacy policy. Check the box. </h5>
+<h3>Step-06:</h3>
+<h5> Click Next Step. This will take you to your Google+ profile creation page. All Google accounts create a Google+ account when they are created. Google+ is Google^s Social Network, and many of Google s services are linked to it. See this guide for more information on how to get the most out of Google+</h5>
+<h3>Step-07:</h3>
+<h5> Click Next Step once more. Your Gmail account has been created. </h5>
+</body>
+</html>]]>
+    </string>
+    <string name="title_activity_yahoo">Yahoo</string>
+    <string name="yahoo"> <!-- This is the yahoo content text -->
+
+
+<![CDATA[<html>
+<body>
+<h2>To  create a Yahoo mail account please scroll down to step 1.</h2>
+<h3>Step-01:</h3>
+<h5>Go to http://www.yahoo.com on your web browser.</h5>
+<h3>Step-02:</h3>
+<h5>Hover the mouse pointer over the “Sign In” label at the top right of the screen. A drop-down box will appear.</h5>
+<h3>Step-03:</h3>
+<h5>Click “Sign Up” to create an account.  </h5>
+<h3>Step-04:</h3>
+<h5>Enter the necessary details. On the given fields, enter your first and last name, a user name of your choice, and a password.</h5>
+<h3>Step-05:</h3>
+<h5>Enter your mobile number and your birthday, and select a gender.</h5>
+<h3>Step-06:</h3>
+<h5>Click on “Create Account.” </h5>
+<h3>Step-07:</h3>
+<h5>Enter the Captcha code that will appear. </h5>
+<h3>Step-08:</h3>
+<h5>Click “Get Started.” Your account has been successfully created  !</h5>
+</body>
+</html>]]>
+    </string>
+    <string name="title_activity_facebook">Facebook</string>
+    <string name="facebook"> <!-- This is the facebook content text -->
+
+
+<![CDATA[<html>
+<body>
+<h2>Create your own Facebook account</h2>
+<h3>Step-01:</h3>
+<h5>Go to the facebook website  www.facebook.com . If you have an existing account, make sure you are logged out first. </5>
+<h3>Step-02:</h3>
+<h5>You will see a signup form. Fill it out completely, make sure all the information is accurate, then click the Sign Up button. </h5>
+<h3>Step-03:</h3>
+<h5>Find your friends.  Facebook  will next ask you to search your various email accounts for friends. You are welcome to do this at this time, or click on Skip this step at the bottom, and continue with the sign-up process. </h5>
+<h3>Step-04:</h3>
+<h5>Fill in profile information. Step 2 of the sign-up process is filling out basic profile info: High school, college, and employer. Again, you may choose to fill this out, or skip this step. </h5>
+<h3>Step-05:</h3>
+<h5>Plug in your mug. Now your chance to shine to the world! Upload a photo from your computer, or take a photo with your web cam. However you do it, Facebook will take it. Of course, like the other steps, you can choose to skip this as well. </h5>
+<h3>Step-06:</h3>
+<h5>Your new account is ready ! </h5>
+</body>
+</html>]]>
+    </string>
+    <string name="title_activity_skype">Skype</string>
+    <string name="skype"> <!-- This is the skype content text -->
+
+
+<![CDATA[<html>
+<body>
+<h2>To  create a Skype account please scroll down to step 1.</h2>
+<h3>Step-01:</h3>
+<h6>Open the Skype homepage www.skype.com. Click on the “Join Us” link in the top-right corner of the page. This will take you to the “Create an account” page. </h6>
+<h3>Step-02:</h3>
+<h6> Choose how you will log in. You have three different options when it comes to Skype accounts. You can use Facebook, your existing Microsoft account, or you can create an account just for Skype. </h6>
+<h3>Step-03:</h3>
+<h6>Enter the required information. In order to create your Skype account, you will need to enter your first and last name, an email address (which remains private), your country, and your language. 
+•	Optional information includes your birthday, gender, city, and mobile phone number. </h6>
+<h3>Step-04:</h3>
+<h6>Indicate how you plan to use Skype. You can select between business and personal use. This information helps Skype determine how people use their services. This is an optional question. </h6>
+<h3>Step-05:</h3>
+<h6>Come up with a Skype Name. This name is displayed to other users, and is one way for people to look you up. This name will be public. You cannot change your Skype Name later, so if you don’t like what you select you will have to create a new account. </h6>
+<h3>Step-06:</h3>
+<h6> Create a strong password. Since Skype will have your friends’ and family^s contact information, it is important to create a password that is strong yet memorable. If your password is too weak, Skype will not let you use it.</h6>
+<h3>Step-07:</h3>
+<h6>Choose whether to receive mail from Skype. Skype will offer to send you messages about new products and special offers. The boxes are checked by default, but you can uncheck them before you continue if you don’t want to receive sales emails.  </h6>
+<h3>Step-08:</h3>
+<h6>Enter the CAPTCHA. This tells Skype that the account is not being created by an automated program. If you can^t read the CAPTCHA, you can click the Refresh button to get a new one, or click the Listen button to hear it read out-loud.</h6>
+<h3>Step-09:</h3>
+<h6>Read the Terms of Use and Privacy Policy. Make sure that you are OK with how Skype will use and not use your personal information. If you are satisfied, click the green “I agree – Continue” button at the bottom of the page.</h6>
+<h3>Step-10:</h3>
+<h6>Download and use Skype. Once your account is created, you can download and begin using Skype. You may see a page asking if you would like to buy Skype credits. You can ignore this for now, or buy credits if you know you are going to use them. Skype credits are used to place phone calls to mobile phones or landlines; calls to other Skype users are always free.</h6>
+</body>
+</html>]]>
+    </string>
+    <string name="title_activity_twitter">Twitter</string>
+    <string name="twitter"> <!-- This is the twitter content text -->
+
+
+<![CDATA[<html>
+<body>
+<h2>To  create a Twitter account please scroll down to step 1.</h2>
+<h3>Step-01:</h3>
+<h6>Go to www.twitter.com. </h6>
+<h3>Step-02:</h3>
+<h6> Click "Sign up for Twitter." You can find this option on a yellow button on the bottom right side of the screen.</h6>
+<h3>Step-03:</h3>
+<h6>Provide basic information about yourself. You will need to provide the following information to create a Twitter account: 
+•	Your full name
+•	Your email address
+•	Your password (something easy to remember, but hard to guess)
+ </h6>
+<h3>Step-04:</h3>
+<h6>Choose your user name. It has to be fewer than 15 characters long. If the name you have chosen is invalid or unavailable, you will be informed about it. Once you have chosen an acceptable name, you will see that it is available for you. </h6>
+<h3>Step-05:</h3>
+<h6>Decide whether you always want to be signed in to Twitter on the computer you are using. If it is your own computer, this is a good option. If it is a public computer, you should uncheck the box next to this option.  •	You can also choose whether or not you want Twitter to be tailored toward your recent website visits by leaving or removing the check mark next to this option.</h6>
+<h3>Step-06:</h3>
+<h6> Click "Create my account. Your account is almost created! </h6>
+</body>
+</html>]]>
+    </string>
+    <string name="title_activity_instagram">Instagram</string>
+    <string name="instagram"> <!-- This is the instagram content text -->
+
+
+<![CDATA[<html>
+<body>
+<h2>To create an Instagram account please scroll down to step 1.</h2>
+<h3>Step-01:</h3>
+<h6>Download the application on your mobile device. We previously mentioned that the social network Instagram is the first designed for mobile devices, although it is possible to access it from a computer. Depending on the type of mobile device you have, you can download the application from the App Store (iPhone or iPad), Google Play (Android), or Windows Phone Store (Windows Phone). You just have to search for "Instagram." </h6>
+<h3>Step-02:</h3>
+<h6>Install Instagram. Once you have downloaded the application, click on the \" Open\" button, which will lead you to a page where you can create a new user account in Instagram. </h6>
+<h3>Step-03:</h3>
+<h6>Go to the registration menu. Instagram will show you two registration options: with your Facebook account or with your e-mail. In this case, choose the "Register with E-mail" option. </h6>
+<h3>Step-04:</h3>
+<h6>Complete the registration with your e-mail, username, and password. Submit a valid e-mail, because Instagram will ask you to verify it; also, it is where you will receive your log-in information. Then, add your platform username and the required password. </h6>
+<h3>Step-05:</h3>
+<h6>Register your phone number. You should register your phone number to make it easier for Instagram to verify your profile. Right now, they are using an SMS system so that users will not receive spam. Do not forget to add your country code. </h6>
+<h3>Step-06:</h3>
+<h6>Fill out the information. Fill out your profile information, personal details, description, blog, etc...any information necessary for people to get to know your taste and personality.  </h6>
+<h3>Step-07:</h3>
+<h6>Confirm your e-mail address. Remember to check your inbox to finish your Instagram registration. There, you should find a verification e-mail.  </h6>
+<h3>Step-08:</h3>
+<h6>Enjoy Instagram. You are now a valid Instagram user. Start posting and sharing pictures with your friends, and you will become part of a community that gets bigger every day. </h6>
+</body>
+</html>]]>
+    </string>
+
+</resources>

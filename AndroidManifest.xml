@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.roxy.myapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.roxy.myapp.Splash"
+            android:label="@string/app_name" 
+            android:screenOrientation="portrait">
+            
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.roxy.myapp.Main"
+            android:label="@string/title_activity_main" >
+        </activity>
+        <activity
+            android:name="com.roxy.myapp.Email"
+            android:label="@string/title_activity_email" >
+        </activity>
+        <activity
+            android:name="com.roxy.myapp.Gmail"
+            android:label="@string/title_activity_gmail" >
+        </activity>
+        <activity
+            android:name="com.roxy.myapp.Yahoo"
+            android:label="@string/title_activity_yahoo" >
+        </activity>
+        <activity
+            android:name="com.roxy.myapp.Facebook"
+            android:label="@string/title_activity_facebook" >
+        </activity>
+        <activity
+            android:name="com.roxy.myapp.Skype"
+            android:label="@string/title_activity_skype" >
+        </activity>
+        <activity
+            android:name="com.roxy.myapp.Twitter"
+            android:label="@string/title_activity_twitter" >
+        </activity>
+        <activity
+            android:name="com.roxy.myapp.Instagram"
+            android:label="@string/title_activity_instagram" >
+        </activity>
+    </application>
+
+</manifest>

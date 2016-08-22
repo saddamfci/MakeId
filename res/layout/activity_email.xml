@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".Email" >
+
+    <TextView
+        android:id="@+id/textViewEmail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/heading"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#008849"
+        android:textSize="20sp"
+        android:textStyle="italic" />
+
+    <Button
+        android:id="@+id/gmail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:text="@string/gmailbtn"
+        android:textColor="#CD333F"
+        android:textSize="35sp" />
+
+    <Button
+        android:id="@+id/yahoo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button"
+        android:text="@string/yahoobtn"
+        android:textColor="#CD333F"
+        android:textSize="35sp" />
+
+</LinearLayout>
